@@ -10,3 +10,5 @@ Load balancing techniques:
 - Nginx + Node.js as a system process.
 - Docker Swarm
 - Kubernetes
+
+By Fernando Müller Junior - DevOpsMind.com.br
